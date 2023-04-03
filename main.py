@@ -1,4 +1,8 @@
-
+#  Code taken from: https://github.com/Upid3v/python-flyweight-pattern
+# Date Accessed: 04/03/23
+#  Changelog:
+#  Adapting flyweight to use pixels
+#
 
 from FlyweightFactory import *
 import pygame
